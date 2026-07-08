@@ -7,3 +7,8 @@
 - salt
 - pepper
 - lemon
+
+## Instructions 
+- **cut lemon, cilantro, avocado**
+- **add ingredients to bowl**
+- **stir**
