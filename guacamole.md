@@ -3,14 +3,11 @@
 ## Ingredients
 - avocado
 - onion
-- tomato
-- garlic
-- lime juice
 - salt and pepper to taste
 - tomato
 - garlic
 - cilantro
-- lemon
+- lime juice
 
 
 ## Instructions 
